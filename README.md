@@ -1,5 +1,9 @@
-<div style="text-align: center;">
-<img src="./assets/%7B%20%7D.png" style="border: none;">
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/superzackx/Sightless"><img src="./assets/%7B%20%7D.png"></a>
+  <br>
+  The Sightless Project
+  <br>
+</h1>
 
-## The sightless project is an open source projects which's aim is to help blind people write code. The project's first goal is to make an IDE which helps in doing this. 
+<h3 align=center>An open source project aiming to help blind people write code.</h3>
