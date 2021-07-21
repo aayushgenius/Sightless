@@ -24,5 +24,5 @@
 
 <p align="left" id="contribute">
   <h2>Contribute</h2>
-  Every dev in the world can help. If you want to get involved then please, make a pull request or email me at superzackx@gmail.com.
+  Every dev in the world can help. If you want to get involved then please, make a pull request or email me at superzackx@gmail.com. We are looking for people who know anything from C, App Development, Voice Utils, Speech Recognition, Github Management, Windows APIs or HTML, CSS, JS.
 </p>
