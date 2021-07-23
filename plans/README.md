@@ -1,6 +1,6 @@
 Here we will keep the plans for the project.
 
-#Ideas aayushgenius - 
+# Ideas aayushgenius - 
 There should be no syntax and we should use voice recognition.
 
 
